@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\Year2-2\\Programming\\bu-2025-sem2-gi244-week13-1670705530\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Downloads\\Year2-2\\Programming\\bu-2025-sem2-gi244-week13-1670705530\\Assets\\Scripts\\ProjectileObjectPool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ProjectileObjectPool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Downloads\\Year2-2\\Programming\\bu-2025-sem2-gi244-week13-1670705530\\Assets\\Scripts\\AnotherObject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\AnotherObject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Downloads\\Year2-2\\Programming\\bu-2025-sem2-gi244-week13-1670705530\\Assets\\Scripts\\PersistentObject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PersistentObject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Downloads\\Year2-2\\Programming\\bu-2025-sem2-gi244-week13-1670705530\\Assets\\Scripts\\GameSetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\GameSetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProjectileObjectPool.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Year2-2\\Programming\\bu-2025-sem2-gi244-week13-1670705530\\Assets\\Scripts\\ProjectileObjectPool.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ProjectileObjectPool.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Year2-2\\Programming\\bu-2025-sem2-gi244-week13-1670705530\\Assets\\Scripts\\ProjectileObjectPool.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ProjectileObjectPool.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T17:35:03.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameSetting.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Year2-2\\Programming\\bu-2025-sem2-gi244-week13-1670705530\\Assets\\Scripts\\GameSetting.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameSetting.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Year2-2\\Programming\\bu-2025-sem2-gi244-week13-1670705530\\Assets\\Scripts\\GameSetting.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameSetting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T16:43:45.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnotherObject.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Year2-2\\Programming\\bu-2025-sem2-gi244-week13-1670705530\\Assets\\Scripts\\AnotherObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AnotherObject.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Year2-2\\Programming\\bu-2025-sem2-gi244-week13-1670705530\\Assets\\Scripts\\AnotherObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AnotherObject.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T16:30:31.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersistentObject.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Year2-2\\Programming\\bu-2025-sem2-gi244-week13-1670705530\\Assets\\Scripts\\PersistentObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PersistentObject.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Year2-2\\Programming\\bu-2025-sem2-gi244-week13-1670705530\\Assets\\Scripts\\PersistentObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PersistentObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T16:32:21.438Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

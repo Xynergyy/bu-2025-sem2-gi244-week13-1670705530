@@ -58,6 +58,12 @@ public class PlayerController : MonoBehaviour
         {
             // [13] spawn a projectile
             Instantiate(projectilePrefab, transform.position, projectilePrefab.transform.rotation);
+            // Instantiate(projectilePrefab, transform.position, projectilePrefab.transform.rotation);
+            var p = ProjectileObjectPool.staticInstance.Acquire();
+            p.transform.SetPositionAndRotation(
+                transform.position,
+                projectilePrefab.transform.rotation
+                );
         }
     }
 }

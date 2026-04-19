@@ -1,7 +1,13 @@
 using UnityEngine;
+﻿using UnityEngine;
 
 public class AnotherObject : MonoBehaviour
 {
+    private void Start()
+    {
+        Debug.Log(GameSetting.volume);
+        GameSetting.volume = 0;
+    }
     // Update is called once per frame
     void Update()
     {
@@ -26,6 +32,8 @@ public class AnotherObject : MonoBehaviour
         else if (Input.GetKeyDown(KeyCode.E))
         {
 
+            PersistentObject.GetInstance().SetInstancePrivateText("E");
+            PersistentObject.GetInstance().gameObject.name = "Big";
         }
     }
 }
