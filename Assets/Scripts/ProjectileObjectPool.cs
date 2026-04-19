@@ -33,7 +33,6 @@ public class ProjectileObjectPool : MonoBehaviour
             {
                 yield return null;
             }
-        }
 
     }
 
@@ -53,7 +52,6 @@ public class ProjectileObjectPool : MonoBehaviour
 
         var go = projectilePool[0];
         projectilePool.RemoveAt(0);
-        go.SetActive(true);
         return go;
     }
 
