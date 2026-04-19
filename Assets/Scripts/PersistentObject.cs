@@ -1,5 +1,4 @@
 using System.Collections;
-﻿using System.Collections;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -10,22 +9,20 @@ public class PersistentObject : MonoBehaviour
     private string instancePrivateDebugText = "instance private";
     public string instancePublicDebugText = "instance public";
 
-    void Awake()
-
     private static PersistentObject staticInstance = null;
-
     public static PersistentObject GetInstance()
     {
         return staticInstance;
     }
 
-    private void Awake()
+    void Awake()
     {
         if (staticInstance != null)
         {
             Destroy(this.gameObject);
             return;
         }
+
         DontDestroyOnLoad(gameObject);
         staticInstance = this;
     }
@@ -35,6 +32,7 @@ public class PersistentObject : MonoBehaviour
         staticPublicDebugText = "Hello (public)";
         staticPrivateDebugText = "Hello (private)";
         StartCoroutine(Loop());
+
         GameSetting.volume = 1;
     }
 

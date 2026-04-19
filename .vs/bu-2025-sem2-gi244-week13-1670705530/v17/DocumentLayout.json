@@ -11,6 +11,10 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PersistentObject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Downloads\\Year2-2\\Programming\\bu-2025-sem2-gi244-week13-1670705530\\Assets\\Scripts\\Food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Downloads\\Year2-2\\Programming\\bu-2025-sem2-gi244-week13-1670705530\\Assets\\Scripts\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Downloads\\Year2-2\\Programming\\bu-2025-sem2-gi244-week13-1670705530\\Assets\\Scripts\\AnotherObject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\AnotherObject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Downloads\\Year2-2\\Programming\\bu-2025-sem2-gi244-week13-1670705530\\Assets\\Scripts\\Food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Downloads\\Year2-2\\Programming\\bu-2025-sem2-gi244-week13-1670705530\\Assets\\Scripts\\GameSetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,17 +38,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "PersistentObject.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Year2-2\\Programming\\bu-2025-sem2-gi244-week13-1670705530\\Assets\\Scripts\\PersistentObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PersistentObject.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Year2-2\\Programming\\bu-2025-sem2-gi244-week13-1670705530\\Assets\\Scripts\\PersistentObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PersistentObject.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T18:58:35.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Year2-2\\Programming\\bu-2025-sem2-gi244-week13-1670705530\\Assets\\Scripts\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
               "ToolTip": "C:\\Users\\Admin\\Downloads\\Year2-2\\Programming\\bu-2025-sem2-gi244-week13-1670705530\\Assets\\Scripts\\PlayerController.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-19T18:13:19.548Z",
               "EditorCaption": ""
@@ -61,59 +74,46 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\ProjectileObjectPool.cs",
               "ToolTip": "C:\\Users\\Admin\\Downloads\\Year2-2\\Programming\\bu-2025-sem2-gi244-week13-1670705530\\Assets\\Scripts\\ProjectileObjectPool.cs",
               "RelativeToolTip": "Assets\\Scripts\\ProjectileObjectPool.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAADgvxkAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-19T17:35:03.49Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PersistentObject.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Year2-2\\Programming\\bu-2025-sem2-gi244-week13-1670705530\\Assets\\Scripts\\PersistentObject.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PersistentObject.cs",
-              "ToolTip": "C:\\Users\\Admin\\Downloads\\Year2-2\\Programming\\bu-2025-sem2-gi244-week13-1670705530\\Assets\\Scripts\\PersistentObject.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PersistentObject.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAADgvyAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T16:32:21.438Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "DestroyOutOfBound.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Year2-2\\Programming\\bu-2025-sem2-gi244-week13-1670705530\\Assets\\Scripts\\DestroyOutOfBound.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\DestroyOutOfBound.cs",
               "ToolTip": "C:\\Users\\Admin\\Downloads\\Year2-2\\Programming\\bu-2025-sem2-gi244-week13-1670705530\\Assets\\Scripts\\DestroyOutOfBound.cs",
               "RelativeToolTip": "Assets\\Scripts\\DestroyOutOfBound.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-19T17:56:50.993Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "AnotherObject.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Year2-2\\Programming\\bu-2025-sem2-gi244-week13-1670705530\\Assets\\Scripts\\AnotherObject.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\AnotherObject.cs",
               "ToolTip": "C:\\Users\\Admin\\Downloads\\Year2-2\\Programming\\bu-2025-sem2-gi244-week13-1670705530\\Assets\\Scripts\\AnotherObject.cs",
               "RelativeToolTip": "Assets\\Scripts\\AnotherObject.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-19T16:30:31.717Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Food.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Year2-2\\Programming\\bu-2025-sem2-gi244-week13-1670705530\\Assets\\Scripts\\Food.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Food.cs",
               "ToolTip": "C:\\Users\\Admin\\Downloads\\Year2-2\\Programming\\bu-2025-sem2-gi244-week13-1670705530\\Assets\\Scripts\\Food.cs",
               "RelativeToolTip": "Assets\\Scripts\\Food.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-19T18:04:26.774Z",
               "EditorCaption": ""
